@@ -1,0 +1,108 @@
+nav{
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+.logo{
+    display: flex;
+    justify-self: center;
+    height: 30px;
+    width: 20px;
+   
+}
+.glass{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar{
+    justify-content: center;
+}
+
+nav ul li a{
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.image1{
+    margin-top: 80px;
+}
+
+ nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    margin: 0;
+}
+
+
+.flower1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 200px;
+    
+}
+.flower2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 40px;
+       
+
+}
+footer{
+    border-top: 2px solid black;
+    border-bottom:2px solid black ;
+    margin-top: 60px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.box1{
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    box-shadow: 4px 4px 0 0 black;
+    outline: 2px solid transparent;
+    margin-top: 10px;
+}
+.box{
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    box-shadow: 4px 4px 0 0 black;
+    outline: 2px solid transparent;
+    margin-top: 0;
+}
+
+
+
+.lov{
+    display: flex;
+    height: 10px;
+    width:10px;
+}
+#flower {
+    border-radius: 20px;
+}
+#cups{
+    background-color: rgb(196, 255, 247);
+    margin-top: 200px;
+    border-radius: 20px;
+
+}
+
